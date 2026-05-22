@@ -1,4 +1,14 @@
 # heroe
-Este proyecto es una práctica de Programación orientada a objetos en c++.Sumula un videojuego con un heroe que puede:
-+Unirse a un gremio
-+
+This project is a C++ Object-Oriented Programming (00P) practice. Ir simulates a videogame with a hero who can:
+- Join a guild
+- Equip a weapon
+- Attack using polymorphic behavior
+
+OOP concepts use:
+- Classes
+- Inheritance
+- Composition
+- Aggregation
+- Polymorphism
+
+  
