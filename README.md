@@ -42,3 +42,7 @@ Class relationships:
 - The Hero is associated with a Guild (aggregation)
 - The Hero equips a Weapon through a base-class pointer (aggregation + polymorphism)
 - A Potion is passed to the Hero and used instantly (dependency)
+## UML
+
+<img width="1920" height="1080" alt="Pizarra online diagrama UML minimalista degradado naranja brillante amarillo pastel blanco" src="https://github.com/user-attachments/assets/dd0b22d6-85f6-4c48-8de1-856873a8ab1f" />
+
